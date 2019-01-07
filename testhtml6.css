@@ -1,0 +1,66 @@
+.ligne1{
+  width:100%;
+	height:50px;
+}
+.ligne1block1{
+  width:80%;
+	height:50px;
+	background-color:#2ECC71;
+  float: left;
+}
+.ligne1block2{
+  width:20%;
+	height:50px;
+	background-color:#2980B9;
+  float: right;
+}
+.ligne2{
+  width:100%;
+  height:50spx;
+}
+.ligne2block1{
+  width:25%;
+	height:100px;
+	background-color:#E74C3C;
+  float: left;
+}
+.ligne2block2{
+  width:35%;
+	height:50px;
+	background-color:#E67E22;
+  float: left;
+}
+.ligne2block3{
+  width:40%;
+	height:50px;
+	background-color:#95A5A6;
+  float: right
+}
+.ligne2block4{
+  width:25%;
+  height:50px;
+  background-color:#F39C12;
+  float: left;
+}
+.ligne2block5{
+  width:25%;
+  height:50px;
+  background-color:#16A085;
+  float: left;
+}
+.ligne2block6{
+  width:25%;
+  height:50px;
+  background-color:#D35400;
+  float: right;
+}
+.ligne3{
+  width:100%;
+  height:50spx;
+}
+.ligne3block1{
+  width:100%;
+  height:150px;
+  background-color:#2C3E50;
+  float: left;
+}
